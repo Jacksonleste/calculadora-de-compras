@@ -5,5 +5,4 @@ simula o calculo de pagamento em uma loja onde:
     - 2X no cartão, preço normal.
     - Acima de 3X no cartão, 20% de juros.
 
-   -fiz ese projeto usando conhecimentos que adiquiri no curso de python do Gustavo guanabara (Curso em vídeo)
-useiI uma biblioteca do PySimpleGUI para criar uma interface gráfica.
+   -fiz esse projeto usando conhecimentos que adquiri no curso de python do Gustavo Guanabara (Curso em vídeo, usei uma biblioteca do PySimpleGUI para criar uma interface gráfica.
